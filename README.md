@@ -34,6 +34,8 @@ This structure describes an interaction between two layers of government: local 
 - cronjob propagates audited laws to lightly-educated citizenry for popular vote
 - local laws override federal laws (opt-out model)
 
+<< INSERT DIAGRAM HERE >>
+
 
 ## Risks
 
