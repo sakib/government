@@ -30,9 +30,10 @@ This structure describes an interaction between two layers of government: local 
 
 - lightly-educated citizenry self-determine laws and representatives in local governments. You want trial by combat? You got it!
 - local representatives propose laws in federal government
-- federal "Supreme Court", cycling highly-educated citizenry, audits whether proposed laws violate core principles
+- federal "Supreme Court", long-cycling highly-educated citizenry, audits whether proposed laws violate core principles
 - cronjob propagates audited laws to lightly-educated citizenry for popular vote
 - local laws override federal laws (opt-out model)
+- "Supreme Court" appoints executive committees in special cases (wars, famines, pandemics, etc)
 
 << INSERT DIAGRAM HERE >>
 
@@ -40,10 +41,11 @@ This structure describes an interaction between two layers of government: local 
 ## Risks
 
 - federal "Supreme Court" is a SPOF for power and may not be representative of the population. Therefore, its constituency should be independently and randomly selected, face reasonable term limits, and represent a large (100+) sample size relative to the population.
-- whoever controls the standard of education determines who can propose, audit, and vote on laws. Therefore, this responsibility should be relegated to a higher power, perhaps an international standard.
+- whoever controls the standard of education determines who can propose, audit, and vote on laws. Therefore, this responsibility should be relegated to a higher power, perhaps an international standard. I imagine "lightly" would involve a *free* degree, and "highly" would involve doctorates.
 - implementation of a secure identity/voting system. One citizen should have one vote and have one clear "I have education level E". This does not take into account criminal history because that adds unnecessary complexity to the issue of suffrage.
 - the system should be self-righting. If it is determined that a core principle is missing, a process should exist to add it. Perhaps it is sufficient to follow the normal propose-a-law process for this.
 - education is not the same as wisdom. but wisdom is relative and much harder to measure, and knowledge (NOT AGE) is a relatively effective proxy.
+- religion and special interests are always a risk. they can exist at the local level to whatever degree they want but should have no place in a federal judiciary or legislature.
 
 
 ## Simulation
